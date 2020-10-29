@@ -1,5 +1,7 @@
 ### Hi there, I'm [Jeevan][website] 👋
 
+<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/jeevan_m_?color=1DA1F2&logo=twitter&style=for-the-badge">
+
 <!--
 **Jeevan-M/Jeevan-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -11,6 +13,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate on Web Development 🧑🏻‍💻
 - 💬 Ask me about Nothing 🤣
+- 📫 How to reach me: [@Jeevan_M_](https://twitter.com/JEEVAN_M_)
 - ⚡ Fun fact: I love to Play Game 📱 and Learn about new Gadgets 💻
 
 
