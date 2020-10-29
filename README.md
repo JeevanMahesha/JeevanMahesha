@@ -2,6 +2,8 @@
 
 <!--
 **Jeevan-M/Jeevan-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+
 
 ## I'm a Human🤣, Developer!!
 
@@ -11,7 +13,6 @@
 - 💬 Ask me about Nothing 🤣
 - 📫 How to reach me:[<img align="left" alt="jeevan_m.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 - ⚡ Fun fact: I love to Play Game and Learn about new Gadgets 
--->
 
 
 ### Connect with me:
