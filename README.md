@@ -43,6 +43,13 @@
 <br />
 <br />
 
+<details>
+<summary>📈 My GitHub Stats</summary>
+
+<p align="center"> <img src="https://awesome-github-profile-readme.jeevan-m.vercel.app//api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="jeevan" />
+
+</details>
+
 [website]: https://jeevan-m.github.io/
 [twitter]: https://twitter.com/JEEVAN_M_
 [linkedin]: https://www.linkedin.com/in/jeevan-m-7336a3189/
