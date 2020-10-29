@@ -44,6 +44,6 @@
 <br />
 
 [website]: https://jeevan-m.github.io/
-[twitter]: hhttps://twitter.com/JEEVAN_M_
+[twitter]: https://twitter.com/JEEVAN_M_
 [linkedin]: https://www.linkedin.com/in/jeevan-m-7336a3189/
 
