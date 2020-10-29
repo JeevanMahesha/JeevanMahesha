@@ -46,7 +46,7 @@
 <details>
 <summary>📈 My GitHub Stats</summary>
 
-<p align="center"> <img src="https://awesome-github-profile-readme.jeevan-m.vercel.app//api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="jeevan" />
+<p align="center"> <img src="https://awesome-github-profile-readme.jeevan-m.vercel.app//api?username=Jeevan-M&show_icons=true&theme=gotham" alt="jeevan" />
 
 </details>
 
