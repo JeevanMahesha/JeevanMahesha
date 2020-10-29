@@ -45,5 +45,5 @@
 
 [website]: https://jeevan-m.github.io/
 [twitter]: hhttps://twitter.com/JEEVAN_M_
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[linkedin]: https://www.linkedin.com/in/jeevan-m-7336a3189/
 
