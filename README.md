@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on myself for myself by myself 😎
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate on Web Development
+- 👯 I’m looking to collaborate on Web Development 🧑🏻‍💻
 - 💬 Ask me about Nothing 🤣
 - ⚡ Fun fact: I love to Play Game 📱 and Learn about new Gadgets 💻
 
