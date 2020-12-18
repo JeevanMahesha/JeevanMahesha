@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate on Web Development 🧑🏻‍💻
 - 💬 Ask me about Nothing 🤣
-- 📫 How to reach me:[<a href = "mailto: csejeevanm@gmail.com"> 📨 csejeevanm@gmail.com </a>]
+- 📫 How to reach me:<a href = "mailto: csejeevanm@gmail.com"> 📨 csejeevanm@gmail.com </a>
 - ⚡ Fun fact: I love to Play Game 📱 and Learn about new Gadgets 💻
 
 
