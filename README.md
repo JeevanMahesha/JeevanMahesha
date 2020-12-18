@@ -13,15 +13,15 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate on Web Development 🧑🏻‍💻
 - 💬 Ask me about Nothing 🤣
-- 📫 How to reach me: [@Jeevan_M_](https://twitter.com/JEEVAN_M_)
+- 📫 How to reach me: [<img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>](https://twitter.com/JEEVAN_M_)
 - ⚡ Fun fact: I love to Play Game 📱 and Learn about new Gadgets 💻
 
 
 ### Connect with me:
 
-[<img align="left" alt="jeevan_m.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="jeevan_twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="jeevan_linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="jeevan_m.com" src="https://img.icons8.com/color/48/000000/domain.png" width="3.5%" />][website]
+[<img align="left" alt="jeevan_twitter | Twitter" src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/> />][twitter]
+[<img align="left" alt="jeevan_linkedin | LinkedIn" src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/> />][linkedin]
 
 <br />
 
