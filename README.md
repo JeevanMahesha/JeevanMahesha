@@ -13,8 +13,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate on Web Development 🧑🏻‍💻
 - 💬 Ask me about Nothing 🤣
-- 📫 How to reach me:
-[<img src="https://img.icons8.com/fluent/48/000000/gmail.png" hight="5px"  width="25px"/>](https://twitter.com/JEEVAN_M_)
+- 📫 How to reach me:📨 [csejeevanm@gmail.com][email]
 - ⚡ Fun fact: I love to Play Game 📱 and Learn about new Gadgets 💻
 
 
@@ -51,7 +50,7 @@
 <summary>📈 My GitHub Stats</summary>
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=jeevan-m&show_icons=true&theme=white" alt="jeevan" />
 </details>
-
+[email]: csejeevanm@gmail.com
 [website]: https://jeevan-m.github.io/
 [twitter]: https://twitter.com/JEEVAN_M_
 [linkedin]: https://www.linkedin.com/in/jeevan-m-7336a3189/
