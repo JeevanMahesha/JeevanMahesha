@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate on Web Development 🧑🏻‍💻
 - 💬 Ask me about Nothing 🤣
-- 📫 How to reach me: [<img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="1.5%"/>](https://twitter.com/JEEVAN_M_)
+- 📫 How to reach me: [<img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="2.5%"/>](https://twitter.com/JEEVAN_M_)
 - ⚡ Fun fact: I love to Play Game 📱 and Learn about new Gadgets 💻
 
 
