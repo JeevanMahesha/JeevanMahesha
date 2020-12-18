@@ -43,11 +43,26 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
+
+## 🌳 My Digital Garden
+
+You can find my works on [Jeevan-M.github.io][website]. I write about things
+I am familiar with including **Python**, **PHP**, **TypeScript**, **AngularJS**, and
+**Nodejs**.
 <br />
-<details>
-<summary>📈 My GitHub Stats</summary>
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=jeevan-m&show_icons=true&theme=white" alt="jeevan" />
-</details>
+
+## 🤜🏻🤛🏻 Support Me
+
+**Buy me a Tea** ☕ or support my work if you want. 🤝🏻
+
+<br />
+
+## &#x1f4c8; My GitHub Stats
+
+<a href="https://github.com/jeevan-m">
+  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jeevan-m&layout=compact&langs_count=8&theme=chartreuse-dark" />
+</a>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=jeevan-m&show_icons=true&theme=chartreuse-dark" alt="jeevan" />
 
 [website]: https://jeevan-m.github.io/
 [twitter]: https://twitter.com/JEEVAN_M_
