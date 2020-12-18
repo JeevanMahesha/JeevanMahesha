@@ -6,7 +6,6 @@
 **Jeevan-M/Jeevan-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-
 ## I'm a Human🤣, Developer!!
 
 - 🔭 I’m currently working on myself for myself by myself 😎
@@ -14,8 +13,8 @@
 - 👯 I’m looking to collaborate on Web Development 🧑🏻‍💻
 - 💬 Ask me about Nothing 🤣
 - 📫 How to reach me:<a href = "mailto: csejeevanm@gmail.com"> 📨 csejeevanm@gmail.com </a>
-- ⚡ Fun fact: I love to Play Game 📱 and Learn about new Gadgets 💻
 
+- ⚡ Fun fact: I love to Play Game 📱 and Learn about new Gadgets 💻
 
 ### Connect with me:
 
@@ -45,12 +44,11 @@
 
 <br />
 <br />
-
 <details>
 <summary>📈 My GitHub Stats</summary>
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=jeevan-m&show_icons=true&theme=white" alt="jeevan" />
 </details>
+
 [website]: https://jeevan-m.github.io/
 [twitter]: https://twitter.com/JEEVAN_M_
 [linkedin]: https://www.linkedin.com/in/jeevan-m-7336a3189/
-
