@@ -14,7 +14,7 @@
 - 👯 I’m looking to collaborate on Web Development 🧑🏻‍💻
 - 💬 Ask me about Nothing 🤣
 - 📫 How to reach me:
-[<img src="https://img.icons8.com/fluent/48/000000/gmail.png"  width="25px"/>](https://twitter.com/JEEVAN_M_)
+[<img src="https://img.icons8.com/fluent/48/000000/gmail.png" hight="10px"  width="25px"/>](https://twitter.com/JEEVAN_M_)
 - ⚡ Fun fact: I love to Play Game 📱 and Learn about new Gadgets 💻
 
 
