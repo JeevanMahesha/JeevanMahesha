@@ -1,6 +1,6 @@
 ### Hi there, I'm [Jeevan][website] 👋,a Full Stack Developer 🚀 from India,
 
-<img src="https://github.com/jeevan-m/jeevan-m/blob/main/python.gif" alt="Welcome!" width="500"/>
+<img align="center" src="https://github.com/Jeevan-M/Jeevan-M/blob/main/programmer.gif"  alt="programmerGIF" width="500"/>
 <!-- [<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/jeevan_m_?color=1DA1F2&logo=twitter&style=for-the-badge">](https://twitter.com/JEEVAN_M_) -->
 
 <!--
