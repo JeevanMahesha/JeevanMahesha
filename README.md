@@ -26,6 +26,8 @@
 [<img align="left" alt="jeevan_twitter | Twitter" src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>][twitter]
 [<img align="left" alt="jeevan_linkedin | LinkedIn" src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>][linkedin]
 
+<br>
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -43,12 +45,14 @@
 <img align="left" alt="bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
 <img align="left" alt="flask" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<br>
 
 ### 🌳 My Digital Garden
 
 You can find my works on [Jeevan-M.github.io][website]. I write about things
 I am familiar with including **Python**, **PHP**, **TypeScript**, **AngularJS**, and
 **Nodejs**.
+<br>
 
 ### 🤜🏻🤛🏻 Support Me
 
