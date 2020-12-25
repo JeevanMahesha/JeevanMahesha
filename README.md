@@ -1,6 +1,7 @@
 ### Hi there, I'm [Jeevan][website] 👋,a Full Stack Developer 🚀 from India,
 
-[<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/jeevan_m_?color=1DA1F2&logo=twitter&style=for-the-badge">](https://twitter.com/JEEVAN_M_)
+<img src="https://github.com/jeevan-m/jeevan-m/blob/main/python.gif" alt="Welcome!" width="500"/>
+<!-- [<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/jeevan_m_?color=1DA1F2&logo=twitter&style=for-the-badge">](https://twitter.com/JEEVAN_M_) -->
 
 <!--
 **Jeevan-M/Jeevan-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
