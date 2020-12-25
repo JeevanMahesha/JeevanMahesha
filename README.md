@@ -52,7 +52,6 @@
 You can find my works on [Jeevan-M.github.io][website]. I write about things
 I am familiar with including **Python**, **PHP**, **TypeScript**, **AngularJS**, and
 **Nodejs**.
-<br>
 
 ### 🤜🏻🤛🏻 Support Me
 
