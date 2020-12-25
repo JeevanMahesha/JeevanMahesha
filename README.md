@@ -1,6 +1,9 @@
 ### Hi there, I'm [Jeevan][website] 👋,a Full Stack Developer 🚀 from India,
 
-<img align="center" src="https://github.com/Jeevan-M/Jeevan-M/blob/main/programmer.gif"  alt="programmerGIF" width="500"/>
+<p align="center">
+<img src="https://github.com/Jeevan-M/Jeevan-M/blob/main/programmer.gif"  alt="programmerGIF" width="500"/>
+</p>
+
 <!-- [<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/jeevan_m_?color=1DA1F2&logo=twitter&style=for-the-badge">](https://twitter.com/JEEVAN_M_) -->
 
 <!--
@@ -44,15 +47,16 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
+<br />
 
-## 🌳 My Digital Garden
+### 🌳 My Digital Garden
 
 You can find my works on [Jeevan-M.github.io][website]. I write about things
 I am familiar with including **Python**, **PHP**, **TypeScript**, **AngularJS**, and
 **Nodejs**.
 <br />
 
-## 🤜🏻🤛🏻 Support Me
+### 🤜🏻🤛🏻 Support Me
 
 **Buy me a Tea** ☕ or support my work if you want. 🤝🏻
 
