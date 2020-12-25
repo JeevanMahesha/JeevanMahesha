@@ -59,10 +59,13 @@ I am familiar with including **Python**, **PHP**, **TypeScript**, **AngularJS**,
 
 ## &#x1f4c8; My GitHub Stats
 
-<a href="https://github.com/jeevan-m">
   <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jeevan-m&layout=compact&langs_count=8&theme=chartreuse-dark" />
-</a>
+
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jeevan-m&show_icons=true&theme=chartreuse-dark" alt="jeevan" />
+
+<h4 align="center">Visitor's count </h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{jeevan-m}/count.svg" alt="jeevan :: Visitor's Count" /></p>
 
 [website]: https://jeevan-m.github.io/
 [twitter]: https://twitter.com/JEEVAN_M_
