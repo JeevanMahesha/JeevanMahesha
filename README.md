@@ -4,12 +4,6 @@
 <img src="https://github.com/Jeevan-M/Jeevan-M/blob/main/programmer.gif"  alt="programmerGIF" width="500"/>
 </p>
 
-<!-- [<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/jeevan_m_?color=1DA1F2&logo=twitter&style=for-the-badge">](https://twitter.com/JEEVAN_M_) -->
-
-<!--
-**Jeevan-M/Jeevan-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
 ## I'm a Human🤣, Developer!!
 
 - 🔭 I’m currently working on myself for myself by myself 😎
@@ -22,11 +16,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="jeevan_m.com" src="https://img.icons8.com/color/48/000000/domain.png" width="3.5%" />][website]
-[<img align="left" alt="jeevan_twitter | Twitter" src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>][twitter]
-[<img align="left" alt="jeevan_linkedin | LinkedIn" src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>][linkedin]
-
-<br>
+<p align="left"> <a href="https://jeevan-m.github.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" margin="5" /></a> <a href="https://www.linkedin.com/in/-jeevan-m" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://twitter.com/JEEVAN_M_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> </p>
 
 ### Languages and Tools:
 
@@ -59,9 +49,13 @@ I am familiar with including **Python**, **PHP**, **TypeScript**, **AngularJS**,
 
 ## &#x1f4c8; My GitHub Stats
 
-  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jeevan-m&layout=compact&langs_count=8&theme=chartreuse-dark" />
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Jeevan-M&theme=onedark" alt="Jeevan-M" /></a> </p>
 
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=jeevan-m&show_icons=true&theme=chartreuse-dark" alt="jeevan" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jeevan-m&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+
+<img src="https://activity-graph.herokuapp.com/graph?username=jeevan-m&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevan-m&langs_count=5&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
 
 <h4 align="center">Visitor's count </h4>
 
