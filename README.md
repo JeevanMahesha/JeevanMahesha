@@ -49,13 +49,11 @@ I am familiar with including **Python**, **PHP**, **TypeScript**, **AngularJS**,
 
 ## &#x1f4c8; My GitHub Stats
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Jeevan-M&theme=onedark" alt="Jeevan-M" /></a> </p>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jeevan-m&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/jeevan-m?cardType=level-alternate&theme=react)](https://git.io/awesome-stats-card)
 
 <img src="https://activity-graph.herokuapp.com/graph?username=jeevan-m&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevan-m&langs_count=5&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevan-m&layout=compact&langs_count=5&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
 
 <h4 align="center">Visitor's count </h4>
 
