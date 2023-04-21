@@ -39,7 +39,7 @@
 
 ### 🌳 My Digital Garden
 
-You can find my works on [Jeevan-M.github.io][website]. I write about things
+You can find my works on [JeevanMahesha.github.io][website]. I write about things
 I am familiar with including **Python**, **PHP**, **TypeScript**, **AngularJS**, and
 **Nodejs**.
 
@@ -49,16 +49,16 @@ I am familiar with including **Python**, **PHP**, **TypeScript**, **AngularJS**,
 
 ## &#x1f4c8; My GitHub Stats
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/jeevan-m?cardType=level-alternate&theme=react)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/JeevanMahesha?cardType=level-alternate&theme=react)](https://git.io/awesome-stats-card)
 
-<!-- <img src="https://activity-graph.herokuapp.com/graph?username=jeevan-m&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
+<!-- <img src="https://activity-graph.herokuapp.com/graph?username=JeevanMahesha&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevan-m&layout=compact&langs_count=5&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /> -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeevanMahesha&layout=compact&langs_count=5&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /> -->
 
 <h4 align="center">Visitor's count </h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{jeevan-m}/count.svg" alt="jeevan :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{JeevanMahesha}/count.svg" alt="jeevan :: Visitor's Count" /></p>
 
-[website]: https://jeevan-m.github.io/
-[twitter]: https://twitter.com/JEEVAN_M_
-[linkedin]: https://www.linkedin.com/in/jeevan-m-7336a3189/
+[website]: https://JeevanMahesha.github.io/
+[twitter]: https://twitter.com/jeevanmahesha
+[linkedin]: https://www.linkedin.com/in/jeevanmahesha/
