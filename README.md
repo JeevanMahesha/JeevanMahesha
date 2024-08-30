@@ -4,61 +4,24 @@
 <img src="https://github.com/Jeevan-M/Jeevan-M/blob/main/programmer.gif"  alt="programmerGIF" width="500"/>
 </p>
 
-## I'm a Human🤣, Developer!!
+# 💫 About Me
 
-- 🔭 I’m currently working on myself for myself by myself 😎
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate on Web Development 🧑🏻‍💻
-- 💬 Ask me about Nothing 🤣
-- 📫 How to reach me:<a href = "mailto: csejeevanm@gmail.com"> 📨 csejeevanm@gmail.com </a>
+- 🏁 I’m currently working on: Improving a web application's user interface and performance.<br>- 🕺 I’m looking to collaborate on: Front-end development projects, especially those focused on Angular.<br>- 🤝 I’m looking for help with: Best practices in state management and API integrations.<br>- 🌱 I’m currently learning: New web development tools and frameworks to enhance my coding skills.<br>- 💬 Ask me about: Web development, JavaScript frameworks, and front-end best practices.<br>- ⚡ Fun fact: I enjoy exploring new coding challenges and continuously improving my problem-solving skills!<br>
 
-- ⚡ Fun fact: I love to Play Game 📱 and Learn about new Gadgets 💻
+## 🌐 Socials
 
-### Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/JeevanMahesha) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/JeevanMahesha)
 
-<p align="left"> <a href="https://jeevan-m.github.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" margin="5" /></a> <a href="https://www.linkedin.com/in/-jeevan-m" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://twitter.com/JEEVAN_M_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> </p>
+# 💻 Tech Stack
 
-### Languages and Tools:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=flat&logo=pnpm&logoColor=f69220) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=flat&logo=webpack&logoColor=black) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Realm](https://img.shields.io/badge/Realm-39477F?style=flat&logo=realm&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white)
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
-<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="php" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
-<img align="left" alt="bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
-<img align="left" alt="flask" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<br>
 
-### 🌳 My Digital Garden
 
-You can find my works on [JeevanMahesha.github.io][website]. I write about things
-I am familiar with including **Python**, **PHP**, **TypeScript**, **AngularJS**, and
-**Nodejs**.
+## 🏆 GitHub Trophies
 
-### 🤜🏻🤛🏻 Support Me
+![](https://github-profile-trophy.vercel.app/?username=JeevanMahesha&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
 
-**Buy me a Tea** ☕ or support my work if you want. 🤝🏻
+### 🔝 Top Contributed Repo
 
-## &#x1f4c8; My GitHub Stats
-
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/JeevanMahesha?cardType=level-alternate&theme=react)](https://git.io/awesome-stats-card)
-
-<!-- <img src="https://activity-graph.herokuapp.com/graph?username=JeevanMahesha&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeevanMahesha&layout=compact&langs_count=5&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /> -->
-
-<h4 align="center">Visitor's count </h4>
-
-<p align="center"><img src="https://profile-counter.glitch.me/{JeevanMahesha}/count.svg" alt="jeevan :: Visitor's Count" /></p>
-
-[website]: https://JeevanMahesha.github.io/
-[twitter]: https://twitter.com/jeevanmahesha
-[linkedin]: https://www.linkedin.com/in/jeevanmahesha/
+![](https://github-contributor-stats.vercel.app/api?username=JeevanMahesha&limit=5&theme=dark&combine_all_yearly_contributions=true)
