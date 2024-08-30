@@ -6,7 +6,13 @@
 
 # 💫 About Me
 
-- 🏁 I’m currently working on: Improving a web application's user interface and performance.<br>- 🕺 I’m looking to collaborate on: Front-end development projects, especially those focused on Angular.<br>- 🤝 I’m looking for help with: Best practices in state management and API integrations.<br>- 🌱 I’m currently learning: New web development tools and frameworks to enhance my coding skills.<br>- 💬 Ask me about: Web development, JavaScript frameworks, and front-end best practices.<br>- ⚡ Fun fact: I enjoy exploring new coding challenges and continuously improving my problem-solving skills!<br>
+- 🏁 I’m currently working on: Improving a web application's user interface and performance.
+- 🕺 I’m looking to collaborate on: Front-end development projects, especially those focused on Angular.
+- 🤝 I’m looking for help with: Best practices in state management and API integrations.
+- 🌱 I’m currently learning: New web development tools and frameworks to enhance my coding skills.
+- 💬 Ask me about: Web development, JavaScript frameworks, and front-end best practices.
+- ⚡ Fun fact: I enjoy exploring new coding challenges and continuously improving my problem-solving skills!
+
 
 ## 🌐 Socials
 
