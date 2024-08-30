@@ -1,4 +1,4 @@
-### Hi there, I'm [Jeevan][website] 👋,a Full Stack Developer 🚀 from India,
+### Hi there, I'm Jeevan 👋,a Full Stack Developer 🚀,
 
 <p align="center">
 <img src="https://github.com/Jeevan-M/Jeevan-M/blob/main/programmer.gif"  alt="programmerGIF" width="500"/>
